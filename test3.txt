@@ -1,1 +1,2 @@
 This is the third file in the repo for practicing git and github
+This line is for making modifications from vs code
