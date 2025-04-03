@@ -1,1 +1,2 @@
 This is a text file that i have created to practice git and github for the first time
+Changed some text
